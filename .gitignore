@@ -1,3 +1,10 @@
 /target/
 *.swp
 .DS_Store
+
+# Coq build artifacts
+*.vo
+*.vok
+*.vos
+*.glob
+.*.aux
