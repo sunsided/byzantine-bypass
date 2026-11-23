@@ -55,7 +55,7 @@ We present the **Long Way Around Protocol (LWAP)**, which consists of two indepe
 ### 1. Geographic Byzantine Fault Avoidance (GBFA)
 
 * If the shortest route runs through a war zone, do not use that route.
-* Instead, travel halfway across the empire: visit **Constantinople**, cross the **Black Sea**, stop over in **Trebizond**, and approach from another direction.
+* Instead, the messenger is routed westward to **Constantinople**, transferred across the **Black Sea** to **Trebizond**, and approaches the recipient from an alternative direction.
 * The key property is that a messenger cannot be intercepted at the original ambush site while he is nowhere near it.
 
 ### 2. Suspicious General Exclusion (SGE)
